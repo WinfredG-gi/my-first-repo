@@ -1,1 +1,2 @@
 My name is Winfred Wangui and I'm Learning Git.
+I love learning new technologies.
