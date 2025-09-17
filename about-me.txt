@@ -1,2 +1,4 @@
 My name is Winfred Wangui and I'm Learning Git.
 I love learning new technologies.
+Hobbies: Reading and exploring new healthcare technologies.
+Goals: To merge healthcare with AI and create impactful digital health solutions.
