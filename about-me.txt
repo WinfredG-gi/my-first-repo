@@ -5,3 +5,4 @@ Goals: To merge healthcare with AI and create impactful digital health solutions
 Education:
 - Studying Software Engineering
 - Passionate about lifelong learning
+This is a mistake
