@@ -1,4 +1,4 @@
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: winfredgithimbo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/winfred-githimbo-digitalhealthspecialist/
